@@ -39,3 +39,6 @@ It uses conditional logic to respond to user inputs and stores the user’s name
 ### Run the chatbot
 ```bash
 python chatbot.py
+
+📖 Example Conversation
+
