@@ -56,6 +56,8 @@ You: bye
 Bot: Goodbye Moon, have a great day!
 
 📂 Project Structure
+├── chatbot.py   # Main chatbot script
+└── README.md    # Project documentation
 
 
 
