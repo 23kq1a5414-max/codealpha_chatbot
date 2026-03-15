@@ -42,3 +42,17 @@ python chatbot.py
 
 📖 Example Conversation
 
+Chatbot is running... Type 'bye' to exit.
+You: hello
+Bot: Hi there! What's your name?
+
+You: my name is Moon
+Bot: Nice to meet you, Moon!
+
+You: tell me a joke
+Bot: Why don’t scientists trust atoms? Because they make up everything!
+
+You: bye
+Bot: Goodbye Moon, have a great day!
+
+
